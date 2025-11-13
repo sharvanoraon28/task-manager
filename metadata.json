@@ -1,0 +1,5 @@
+{
+  "name": "Student Task Hub",
+  "description": "A smart to-do list for students, powered by Gemini. It helps you organize your tasks, set priorities, and break down large assignments into manageable sub-tasks.",
+  "requestFramePermissions": []
+}
